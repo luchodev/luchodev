@@ -12,6 +12,7 @@ const luchodev = {
 
 You can find me 🌎:
 - [Blog](https://www.luisruiz.io)
+- <a href="https://www.luisruiz.io" target="_blank">Blog</a>
 
 
 <!--
