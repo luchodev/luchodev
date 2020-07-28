@@ -8,8 +8,10 @@ const luchodev = {
 }
 ```
 
+<!--[![Lucho's github stats](https://github-readme-stats.vercel.app/api?username=luchodev)](https://github.com/luchodev/github-readme-stats)-->
+
 You can find me 🌎:
-- [Blog](https://luisruiz.io)
+- [Blog](https://www.luisruiz.io)
 
 
 <!--
