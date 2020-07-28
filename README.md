@@ -11,7 +11,7 @@ const luchodev = {
 <!--[![Lucho's github stats](https://github-readme-stats.vercel.app/api?username=luchodev)](https://github.com/luchodev/github-readme-stats)-->
 
 You can find me 🌎:
-- [Blog](https://www.luisruiz.io)
+- [Portfolio](https://www.luisruiz.io)
 
 <!--
 **luchodev/luchodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
