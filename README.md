@@ -4,7 +4,7 @@
 const luchodev = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, SQL],
-  tools: [React, Redux, Node, MongoDB, Styled-Components, Jest, Webpack]
+  tools: [React, Redux, Node.js, MongoDB, Styled-Components, Jest, Webpack]
 }
 ```
 
