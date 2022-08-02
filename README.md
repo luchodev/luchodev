@@ -3,7 +3,7 @@
 ```javascript
 const luchodev = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, SQL],
+  code: [Javascript, TypeScript, React, GraphQL, HTML, CSS, SQL],
   tools: [React, Redux, Node.js, MongoDB, Styled-Components, Jest, Webpack]
 }
 ```
